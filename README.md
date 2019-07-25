@@ -13,22 +13,34 @@ In 2015 there are lots of flight delays in United States for some reason. Nearly
 This notebook will explore the data, evaluate some models and draw conclusions. It is divided into the following main sections:
 
 Setup the environment - seting up the notebook environment.
+
 Get the data - loading the data set into the notebook.
+
 Explore the data - exploring the raw flights data.
+
 Prepare the data - data cleansing, feature selection\reduction\engineering and standardization.
+
 Model - training and testing various models.
+
 Evaluate the model - analyzing model results.
+
 Summary - summarizing the observations and conclusions.
 
 ## Models
 We will apply the following classification models to our dataset
 
 Logistic Regression
+
 Random forest
+
 Decision Tree
+
 Decision Tree with PCA
+
 Stochastic Gradient Boosting
+
 SGDClassifier
+
 Neural Network
 
 ## Conclusions 
