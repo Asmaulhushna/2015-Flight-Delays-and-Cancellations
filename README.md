@@ -3,7 +3,9 @@ Machine Learning Project - Comparing models to predict Flight Delays
 
 ## Team Members
 Asma-Ul-Hushna
+
 Xubin Zhao
+
 Yaxal Arenas
 
 ## Project Overview
@@ -45,12 +47,18 @@ Neural Network
 
 ## Conclusions 
 The percentage of planes late in 2015 is 35.86 The percentage of planes right on time in 2015 is 2.17 The percentage of planes that arrived ahead of time in 2015 is 60.16.
+
 Stochastic Gradient Boosting is the best Model in terms of accuracy (0.94587), time required(21 min) and memory usage. 
+
 We can get equivalent performance from SGDClassifier in third of the time taken by Logistic Regression.
+
 For sufficiently large datasets, it is best to implement SGD Classifier instead of Logistic Classifier to produce similar results in much less time.
+
 A simple Neural Network has a higher predictive capacity than classic methods (1.14% better).
+
 Calculation time for a Neural Net with 5 epochs was 2.2 h, too long compared to classic methods.
 
 ## Future work 
 Implement regression analysis to predict ARRIVAL_DELAY. 
+
 Optimize the neural network to decrease time yet not losing accuracy, by changing: number of layers, activation type, number of neurons, batch size, epochs.
