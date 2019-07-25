@@ -8,6 +8,9 @@ Xubin Zhao
 
 Yaxal Arenas
 
+# Dataset link
+https://www.kaggle.com/usdot/flight-delays
+
 ## Project Overview
 In 2015 there are lots of flight delays in United States for some reason. Nearly one third of all flights in our data set have delays. The main reasons for flight delays are whether related but in some cases there are also airline or airport related flight delays. In this document we will try to predict if a flight will be Delayed or not on the basis of some given features.
 
