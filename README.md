@@ -1,5 +1,9 @@
-# 2015-Flight-Delays-and-Cancellations
-Machine Learning Project - Comparing models to predict Flight Delays
+# Flight Delays and Cancellations of 2015
+SCS 3253 Machine Learning Project
+
+<a href="https://colab.research.google.com/github/Asmaulhushna/examples/blob/master/Final_project_2015_Flight_Delays_and_Cancellations.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Team Members
 Asma-Ul-Hushna
