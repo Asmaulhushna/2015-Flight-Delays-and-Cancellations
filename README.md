@@ -42,12 +42,12 @@ We used the following classification models to predict arrival delay -
 
 | Algorithms  | Training Accuracy | Test Accuracy |
 | ------------- | ------------- | ------------- |
-| Logistic Regression  | Content Cell  | 0.94649 |
-| Random Forest   | Content Cell  | 0.94357 |
+| Logistic Regression  | 0.94641  | 0.94649 |
+| Random Forest   | 0.95903  | 0.94357 |
 | Decision Tree with PCA  | Content Cell  | 0.91214|
 | Decision Tree  | Content Cell  |  0.91708    |
-| Stochastic Gradient Boosting  | Content Cell  |       0.94587|
-| SGDClassifier  | Content Cell  |      0.94693 |
+| Stochastic Gradient Boosting  | 0.94600  |       0.94587|
+| SGDClassifier  | 0.94682  |      0.94693 |
 | Neural Network   | Content Cell  |           0.945  |
 
 ## Conclusions 
