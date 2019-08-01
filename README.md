@@ -50,7 +50,7 @@ We used the following classification models to predict arrival delay -
 | Neural Network with PCA   | 0.9442 |     0.94432 |
 
 ## Conclusions 
-* Stochastic Gradient Boosting is the best Model in terms of accuracy (0.94587), time required(21 min) and memory usage. 
+* Stochastic Gradient Boosting is the best Model in terms of accuracy (0.94587), time required(17 min) and memory usage. 
 * We can get equivalent performance from SGDClassifier in third of the time taken by Logistic Regression.
 * For sufficiently large datasets, it is best to implement SGD Classifier instead of Logistic Classifier to produce similar results in much less time.
 * A simple Neural Network has a higher predictive capacity than classic methods (1.14% better).
