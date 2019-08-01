@@ -42,12 +42,13 @@ We used the following classification models to predict arrival delay -
 
 | Algorithms  | Training Accuracy | Test Accuracy |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |               |
-| Content Cell  | Content Cell  |               |
-| Content Cell  | Content Cell  |               |
-| Content Cell  | Content Cell  |               |
-| Content Cell  | Content Cell  |               |
-| Content Cell  | Content Cell  |               |
+| Logistic Regression  | Content Cell  | 0.94649 |
+| Random Forest   | Content Cell  | 0.94357 |
+| Decision Tree with PCA  | Content Cell  | 0.91214|
+| Decision Tree  | Content Cell  |  0.91708    |
+| Stochastic Gradient Boosting  | Content Cell  |       0.94587|
+| SGDClassifier  | Content Cell  |      0.94693 |
+| Neural Network   | Content Cell  |           0.945  |
 
 ## Conclusions 
 * Stochastic Gradient Boosting is the best Model in terms of accuracy (0.94587), time required(21 min) and memory usage. 
