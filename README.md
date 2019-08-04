@@ -15,7 +15,7 @@ https://www.kaggle.com/usdot/flight-delays
 
 ## Video Link
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=c1TbyxPeM4Y
+<a href="https://youtu.be/RFRrMNs_oeU
 " target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQajPUXtStb8VgxYGkThFL9iQ8sgowcVeYG7HHLfvS02-YQVYcs" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
