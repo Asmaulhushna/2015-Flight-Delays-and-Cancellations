@@ -13,6 +13,12 @@ SCS 3253 Machine Learning Project
 ## Dataset link
 https://www.kaggle.com/usdot/flight-delays
 
+## Video Link
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=c1TbyxPeM4Y
+" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQajPUXtStb8VgxYGkThFL9iQ8sgowcVeYG7HHLfvS02-YQVYcs" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ## Project Overview
 In 2015 there are lots of flight delays in United States for some reason. Nearly one third of all flights in our data set have delays. The main reasons for flight delays are whether related but in some cases there are also airline or airport related flight delays. In this document we will try to predict if a flight will be Delayed or not on the basis of some given features.
 
