@@ -10,7 +10,7 @@ SCS 3253 Machine Learning Project
 * Xubin Zhao
 * Yaxal Arenas
 
-## Dataset link
+## Dataset Link
 https://www.kaggle.com/usdot/flight-delays
 
 ## Video Link
